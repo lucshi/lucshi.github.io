@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WAMR设计
+title: WAMR整体设计
 categories: [basic]
 description: wamr design
 keywords: wasm wamr

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 看到一份服务器架构性能对比（有待证实，你觉得可信度多少？）
-categories: [basic]
+categories: [comparison analysis]
 description: main stream server performance comparison
 keywords: openeuler
 mermaid: false

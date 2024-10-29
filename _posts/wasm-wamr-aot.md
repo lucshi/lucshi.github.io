@@ -2,8 +2,8 @@
 layout: post
 title: WAMR AOT 设计
 categories: [wasm]
-description: wamr jit
-keywords: wasm wamr jit
+description: wamr aot
+keywords: wasm wamr aot
 mermaid: false
 sequence: false
 flow: false

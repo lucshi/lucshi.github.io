@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 为何选择轻量级 WebAssembly Runtime
-categories: [basic]
+categories: [wasm]
 description: wamr initiate
 keywords: wasm wamr
 mermaid: false

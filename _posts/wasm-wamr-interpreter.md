@@ -1,8 +1,8 @@
 ---
 layout: post
 title: WAMR interpreter设计
-categories: [basic]
-description: wamr initiate
+categories: [wasm]
+description: wamr interpreter
 keywords: wasm wamr
 mermaid: false
 sequence: false

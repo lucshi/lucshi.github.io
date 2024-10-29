@@ -1,7 +1,7 @@
 ---
 layout: post
 title: WAMR interpreter优化方案
-categories: [basic]
+categories: [wasm]
 description: wamr interpreter opt
 keywords: wasm wamr opt
 mermaid: false

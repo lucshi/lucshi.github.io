@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 性能优化的思想陷阱
-categories: [v8, basic]
+categories: [opt]
 description: opt thinkings pitfalls
 keywords: v8
 mermaid: false
