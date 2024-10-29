@@ -1,7 +1,7 @@
 ---
 layout: post
 title: OpenEuler的简要竞争分析（2024）
-categories: [basic]
+categories: [comparison analysis]
 description: openeuler competitive analysis
 keywords: openeuler
 mermaid: false

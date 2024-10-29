@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 性能优化的两个思考维度
-categories: [v8, basic]
-description: v8 introduction for new comers
+categories: [opt]
+description: opt thinking dimensions
 keywords: v8
 mermaid: false
 sequence: false
