@@ -4,14 +4,14 @@
 baseurl:
 url: https://lucshi.github.io
 date_format: "ordinal"
-title: Runtime internals
-subtitle: "Runtime 内部原理"
-description: "石磊-Luc Shi-JVM Architect-Performance optimization-Compiler-CPU uARC"
-keywords: 石磊 Luc JVM runtime architect performance optimization node.js v8 uARC
+title: ALL UNDER APPS
+subtitle: "底层软件设计原理"
+description: "compiler, language, runtime, os, cpu, instructions"
+keywords: compiler, language, runtime, os, cpu, instructions
 timezone: Asia/Shanghai
 encoding: "utf-8"
 # 页面左下角显示的年份
-since: 2015
+since: 2024
 # 源码仓库，请替换成自己的
 repository: lucshi/lucshi.github.io
 # 对 css 和 js 资源的 cdn 加速配置
@@ -58,8 +58,8 @@ highlight_theme: github
 #      Author      #
 # ---------------- #
 author: Lei Luc Shi
-organization: Intel
-organization_url: www.intel.com
+organization: 
+organization_url: 
 github_username: lucshi
 location: Beijing, China
 email: leishi11271082@gmail.com
