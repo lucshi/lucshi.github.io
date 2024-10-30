@@ -10,7 +10,6 @@ flow: false
 mathjax: false
 mindmap: false
 mindmap2: false
-date: 2024-10-29 12:00:00 +0800
 ---
 
 | 维度              | 时间域 (Time Domain)                                           | 频率域 (Frequency Domain)                                    |
