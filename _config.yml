@@ -4,7 +4,7 @@
 baseurl:
 url: https://lucshi.github.io
 date_format: "ordinal"
-title: ALL UNDER APPS
+title: Under The Hood
 subtitle: "底层软件设计原理"
 description: "compiler, language, runtime, os, cpu, instructions"
 keywords: compiler, language, runtime, os, cpu, instructions
