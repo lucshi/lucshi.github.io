@@ -4,8 +4,8 @@
 baseurl:
 url: https://lucshi.github.io
 date_format: "ordinal"
-title: Shilei.site
-subtitle: "国内用户请访问shilei.blog.csdn.net"
+title: 域名：http://shilei.site  国内访问：http://shilei.blog.csdn.net
+subtitle: "底层软件设计原理与优化"
 description: "国内用户请访问shilei.blog.csdn.net或者shilei.site"
 keywords: compiler, language, runtime, os, cpu, instructions
 timezone: Asia/Shanghai
