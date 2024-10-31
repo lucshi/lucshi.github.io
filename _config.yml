@@ -4,9 +4,9 @@
 baseurl:
 url: https://lucshi.github.io
 date_format: "ordinal"
-title: Under The Hood
-subtitle: "底层软件设计原理"
-description: "compiler, language, runtime, os, cpu, instructions"
+title: Shilei.site
+subtitle: "国内用户请访问shilei.blog.csdn.net"
+description: "国内用户请访问shilei.blog.csdn.net或者shilei.site"
 keywords: compiler, language, runtime, os, cpu, instructions
 timezone: Asia/Shanghai
 encoding: "utf-8"
