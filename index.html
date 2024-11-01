@@ -38,6 +38,7 @@
         .animated-text:nth-child(2) { animation-delay: 1.0s; }
         .animated-text:nth-child(3) { animation-delay: 1.5s; }
         .animated-text:nth-child(4) { animation-delay: 2.0s; }
+        .animated-text:nth-child(5) { animation-delay: 2.5s; }
 
         /* Keyframe for fade-in effect */
         @keyframes fadeIn {
@@ -50,14 +51,29 @@
                 transform: translateY(0);
             }
         }
+
+        /* QR Code Styling */
+        .qr-code {
+            margin-top: 1em;
+        }
+        .qr-code img {
+            width: 150px;
+            height: 150px;
+        }
     </style>
 </head>
 <body>
     <div class="intro">
-        <h1 class="animated-text">Hi, I'm <span class="highlight">Your Name</span></h1>
-        <p class="animated-text">Company: Your Company</p>
-        <p class="animated-text">Website: <a href="https://yourwebsite.com" target="_blank">yourwebsite.com</a></p>
+        <h1 class="animated-text"><span class="highlight">Shi Lei</span></h1>
+        <p class="animated-text">Working on low level software stacks - OS, Runtime, Compilers</p>
+        <p class="animated-text">Technical website: <a href="http://shilei.blog.csdn.net" target="_blank">shilei.blog.csdn.net</a></p>
         <p class="animated-text">Contact: your.email@example.com</p>
+        
+        <!-- QR Code Section -->
+        <div class="qr-code animated-text">
+            <p>Scan my WeChat:</p>
+            <img src="assets/images/wechat_qr.png" alt="WeChat QR Code">
+        </div>
     </div>
 </body>
 </html>
